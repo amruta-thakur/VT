@@ -1,0 +1,420 @@
+[
+    {
+        "_id": "b-05",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "first-block",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 0
+    },
+    {
+        "_id": "b-10",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "overview-block-bg",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 20
+    },
+    {
+        "_id": "b-15",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-15",
+        "displayTitle": "WHAT IS VALOPTEC?",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 21
+    },
+    {
+        "_id": "b-20",
+        "_parentId": "a-20",
+        "_type": "block",
+        "_classes": "animate-text-align",
+        "title": "b-20",
+        "displayTitle": "VALOPTEC IS AT THE HEART",
+        "body": "OF THE GROUP’S SUCCESS",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 22
+    },
+    {
+        "_id": "b-25",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "animate-text-align container-height",
+        "title": "b-25",
+        "displayTitle": "A UNIQUE MODEL OF GOVERNANCE",
+        "body": "THAT HAS PROVEN ITSELF",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 23
+    },
+    {
+        "_id": "b-30",
+        "_parentId": "a-30",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-30",
+        "displayTitle": "VALUES WE ALL SHARE",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 24
+    },
+    {
+        "_id": "b-35",
+        "_parentId": "a-35",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-35",
+        "displayTitle": "WHY YOU SHOULD JOIN VALOPTEC?<br>BECAUSE YOU HAVE YOUR SAY",
+        "body": "TO SHAPE THE GROUP’S FUTURE",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 25
+    },
+    {
+        "_id": "b-40",
+        "_parentId": "a-40",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-40",
+        "displayTitle": "BECAUSE SUCCESS MUST BE SHARED",
+        "body": "TO GROW BETTER TOGETHER",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 26
+    },
+    {
+        "_id": "b-45",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-45",
+        "displayTitle": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "body": "",
+        "_trackingId": 27
+    },
+    {
+        "_id": "b-50",
+        "_parentId": "a-50",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-50",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 28
+    },
+    {
+        "_id": "b-55",
+        "_parentId": "a-55",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-55",
+        "displayTitle": "TESTIMONIALS",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 29
+    },
+    {
+        "_id": "b-60",
+        "_parentId": "a-60",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-60",
+        "displayTitle": "LET’S WRITE",
+        "body": "A NEW CHAPTER TOGETHER",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "<img src='course/en/images/down_arrow.png' />",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        },
+        "_trackingId": 30
+    },
+    {
+        "_id": "b-65",
+        "_parentId": "a-65",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-65",
+        "displayTitle": "VALOPTEC ASSOCIATION",
+        "body": "WHAT’S ON TOP OF EMPLOYEE SHAREHOLDING",
+        "_trackingId": 31
+    }
+]

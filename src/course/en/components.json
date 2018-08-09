@@ -1,0 +1,657 @@
+[
+	{
+	    "_id": "c-05",
+	    "_parentId": "b-05",
+	    "_type": "component",
+	    "_component": "media",
+	    "_classes": "",
+	    "_layout": "full",
+	    "title": "",
+	    "displayTitle": "",
+	    "body": "",
+	    "instruction": "",
+	    "_setCompletionOn": "ended",
+	    "_useClosedCaptions": false,
+	    "_startLanguage": "en",
+	    "_allowFullScreen": true,
+	    "_showVolumeControl": true,
+	    "_startVolume": "80%",
+	    "_playsinline": false,
+        "_isAutoPlay":true,
+	    "_media": {
+	        "mp4": "course/en/video/valoptec.mp4",
+	        "ogv": "course/en/video/c-40.ogv",
+	        "poster": "course/en/video/valoptec.png",
+	        "cc": [
+	            {
+	                "srclang": "en",
+	                "src": ""
+	            },
+	            {
+	                "srclang": "pl",
+	                "src": ""
+	            }
+	        ]
+	    },
+	    "_transcript": {
+	        "_setCompletionOnView": false,
+	        "_inlineTranscript": false,
+	        "_externalTranscript": false,
+	        "inlineTranscriptButton": "Transcript",
+	        "inlineTranscriptCloseButton": "Close Transcript",
+	        "inlineTranscriptBody": "Transcript body text should go here",
+	        "transcriptLinkButton": "Transcript",
+	        "transcriptLink": "assets/transcript.pdf"
+	    },
+	    "_playerOptions": {
+	        "poster": "",
+	        "showPosterWhenEnded": false,
+	        "defaultVideoWidth": 480,
+	        "defaultVideoHeight": 270,
+	        "videoWidth": -1,
+	        "videoHeight": -1,
+	        "defaultAudioWidth": 400,
+	        "defaultAudioHeight": 30,
+	        "defaultSeekBackwardInterval": "(media.duration * 0.05)",
+	        "defaultSeekForwardInterval": "(media.duration * 0.05)",
+	        "audioWidth": -1,
+	        "audioHeight": -1,
+	        "startVolume": 0.8,
+	        "loop": false,
+	        "autoRewind": true,
+	        "enableAutosize": true,
+	        "alwaysShowHours": false,
+	        "showTimecodeFrameCount": false,
+	        "framesPerSecond": 25,
+	        "autosizeProgress" : true,
+	        "alwaysShowControls": false,
+	        "hideVideoControlsOnLoad": false,
+	        "clickToPlayPause": true,
+	        "iPadUseNativeControls": false,
+	        "iPhoneUseNativeControls": false,
+	        "AndroidUseNativeControls": false,
+	        "features": ["playpause","current","progress","duration","tracks","volume","fullscreen"],
+	        "isVideo": true,
+	        "enableKeyboard": true,
+	        "pauseOtherPlayers": true,
+	        "startLanguage": "",
+	        "tracksText": "mejs.i18n.t('Captions/Subtitles')",
+	        "hideCaptionsButtonWhenEmpty": true,
+	        "toggleCaptionsButtonWhenOnlyOne": false,
+	        "slidesSelector": ""
+	    },
+	    "_pageLevelProgress": {
+	        "_isEnabled": false
+	    }
+	},
+	{
+	    "_id":"c-10",
+	    "_parentId":"b-10",
+	    "_type":"component",
+	    "_component":"text",
+	    "_classes":"overview-component-custome",
+	    "_layout":"left",
+	    "title":"OVERVIEW",
+	    "displayTitle":"OVERVIEW",
+	    "body":"As you progress through this course, you will learn:<br><br><ul class='unorder-list-style'><li>What is Valoptec</li><li>How it contributes to our success</li><li>How you can share this success</li></ul>",
+	    "instruction":"",
+	    "_pageLevelProgress": {
+	        "_isEnabled": true
+	    }
+	},
+	{
+	    "_id": "c-15",
+	    "_parentId": "b-15",
+	    "_type": "component",
+	    "_component": "media",
+	    "_classes": "",
+	    "_layout": "full",
+	    "title": "WHAT IS VALOPTEC?",
+	    "displayTitle": "",
+	    "body": "",
+	    "instruction": "Select Play to begin the video.",
+	    "_setCompletionOn": "ended",
+	    "_useClosedCaptions": true,
+	    "_startLanguage": "en",
+	    "_allowFullScreen": true,
+	    "_showVolumeControl": true,
+	    "_startVolume": "80%",
+	    "_playsinline": false,
+	    "_media": {
+	        "mp4": "course/en/video/whatisValoptec.mp4",
+	        "ogv": "course/en/video/c-40.ogv",
+	        "poster": "course/en/video/whatisValoptec.png",
+	        "cc": [
+	            {
+	                "srclang": "en",
+	                "src": ""
+	            },
+	            {
+	                "srclang": "pl",
+	                "src": ""
+	            }
+	        ]
+	    },
+	    "_transcript": {
+	        "_setCompletionOnView": false,
+	        "_inlineTranscript": false,
+	        "_externalTranscript": false,
+	        "inlineTranscriptButton": "Transcript",
+	        "inlineTranscriptCloseButton": "Close Transcript",
+	        "inlineTranscriptBody": "Transcript body text should go here",
+	        "transcriptLinkButton": "Transcript",
+	        "transcriptLink": "assets/transcript.pdf"
+	    },
+	    "_playerOptions": {
+	        "poster": "",
+	        "showPosterWhenEnded": false,
+	        "defaultVideoWidth": 480,
+	        "defaultVideoHeight": 270,
+	        "videoWidth": -1,
+	        "videoHeight": -1,
+	        "defaultAudioWidth": 400,
+	        "defaultAudioHeight": 30,
+	        "defaultSeekBackwardInterval": "(media.duration * 0.05)",
+	        "defaultSeekForwardInterval": "(media.duration * 0.05)",
+	        "audioWidth": -1,
+	        "audioHeight": -1,
+	        "startVolume": 0.8,
+	        "loop": false,
+	        "autoRewind": true,
+	        "enableAutosize": true,
+	        "alwaysShowHours": false,
+	        "showTimecodeFrameCount": false,
+	        "framesPerSecond": 25,
+	        "autosizeProgress" : true,
+	        "alwaysShowControls": false,
+	        "hideVideoControlsOnLoad": false,
+	        "clickToPlayPause": true,
+	        "iPadUseNativeControls": false,
+	        "iPhoneUseNativeControls": false,
+	        "AndroidUseNativeControls": false,
+	        "features": ["playpause","current","progress","duration","tracks","volume","fullscreen"],
+	        "isVideo": true,
+	        "enableKeyboard": true,
+	        "pauseOtherPlayers": true,
+	        "startLanguage": "",
+	        "tracksText": "mejs.i18n.t('Captions/Subtitles')",
+	        "hideCaptionsButtonWhenEmpty": true,
+	        "toggleCaptionsButtonWhenOnlyOne": false,
+	        "slidesSelector": ""
+	    },
+	    "_pageLevelProgress": {
+	        "_isEnabled": true
+	    }
+	},
+	{
+        "_id":"c-20",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"animatedImages",
+        "_classes":"animation-effects",
+        "_layout": "full",
+        "title": "VALOPTEC IS AT THE HEART",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic" :{
+            "src":"course/en/images/val-heart.png"
+        },
+        "_items": [
+            {
+                "_graphic" :{
+                    "src":"course/en/images/circle-1.png"
+                },
+                "_classes":"first",
+                "duration": 1000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/circle-2.png"
+                },
+                "_classes":"second",
+                "duration": 2000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/circle-3.png"
+                },
+                "_classes":"third",
+                "duration": 3000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/circle-anim-4.png"
+                },
+                "_classes":"fourth",
+                "duration": 4500
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/circle-anim-5.png"
+                },
+                "_classes":"fifth",
+                "duration": 4500
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	{
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"animatedImages",
+        "_classes":"animation-effects textAligncenter",
+        "_layout": "full",
+        "title": "A UNIQUE MODEL OF GOVERNANCE",
+        "displayTitle": "",
+        "body": "<strong>VALOPTEC ASSOCIATION<br>FEDERATES GROUP’S ACTIVE AND RETIRED SHAREHOLDERS<br>FOR OVER 45 YEARS</strong>",
+        "instruction": "",
+        "_graphic" :{
+            "src":"course/en/images/uniquemodel.png"
+        },
+        "_items": [
+            {
+                "_graphic" :{
+                    "src":"course/en/images/line.png"
+                },
+                "_classes":"block-25b",
+                "duration": 1000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/anim-co-5.png"
+                },
+                "_classes":"block-25a",
+                "duration": 4000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/anim-co-15.png"
+                },
+                "_classes":"block-25c",
+                "duration": 6000
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"VALUES WE ALL SHARE",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "alt text",
+            "large": "course/en/images/bg-3.png",
+            "small": "course/en/images/bg-3.png",
+            "attribution":""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+     {
+        "_id": "c-35",
+        "_parentId": "b-35",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative-fullwidth",
+        "title": "WHY YOU SHOULD JOIN VALOPTEC ?",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "Select the arrow to learn more.",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "Select the forward arrow to learn more.",
+        "_setCompletionOn":"allItems",
+        "_lockNextPrevious":true,
+        "_items": [
+            {
+                "title": "",
+                "body": "<span class='textToAnimate'>For executive management, support from Valoptec’s members is essential.</span>",
+                "_graphic": {
+                    "src": "course/en/images/narrative-7.png",
+                    "alt": "First graphic",
+                    "attribution":""
+                },
+               
+                "strapline": "Tab 1"
+            },
+            {
+                "title": "",
+                "body": "<span class='textToAnimate'>We are more than employees, more than shareholders.</span>",
+                "_graphic": {
+                    "src": "course/en/images/narrative-5.png",
+                    "alt": "Second graphic",
+                    "attribution":""
+                },
+                
+                "strapline": "Tab 2"
+            },
+            {
+                "title": "",
+                "body": "<span class='textToAnimate'>You vote on the board mandates and exchange directly with executives</span><span class='textToAnimate'>You vote on the Group’s strategy and HR policy every year</span><span class='textToAnimate'>You take part in local meetings and meet other members</span><span class='textToAnimate'>You are encouraged to speak directly to the Valoptec Board or to your local correspondent</span><span class='textToAnimate bottom-text'><strong>AND EACH PERSON COUNTS</strong><br><strong>AN INDIVIDUAL ROLE</strong></span>",
+                "_graphic": {
+                    "src": "course/en/images/narrative-4.png",
+                    "alt": "Actual graphic goes here",
+                    "attribution":""
+                },
+                "displaySequence":"top",
+                "strapline": "Tab 3"
+            },
+            {
+                "title": "",
+                "body": "<span class='textToAnimate'>The President of Valoptec brings your federative votes to the shareholders meeting</span><span class='textToAnimate'>On going exchanges between the President of Valoptec and senior Group executives</span><span class='textToAnimate'>The President of Valoptec serves on the Board of Directors and 3 Valoptec members serve on the Board of Essilor SAS</span><span class='textToAnimate'>16 Valoptec members meet the executive team</span><span class='textToAnimate bottom-text'><strong>AND WE’RE ALL AT THE HEART OF DECISIONS</strong><br><strong>A COLLECTIVE ROLE</strong></span>",
+                "_graphic": {
+                    "src": "course/en/images/narrative-2.png",
+                    "alt": "Third graphic",
+                    "attribution":""
+                },
+                "displaySequence":"top",
+                "strapline": "Tab 4"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-40",
+        "_parentId": "b-40",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative-fullwidth",
+        "title": "BECAUSE SUCCESS MUST BE SHARED",
+        "instruction": "Select the arrow to learn more.",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "Select the forward arrow to learn more.",
+        "_setCompletionOn":"allItems",
+        "_lockNextPrevious":true,
+        "_items": [
+            {
+                "title": "",
+                "body": "<span class='textToAnimate'>By joining Valoptec, your perspective widens: the Group’s ambition becomes yours and you share in the responsibility and prosperity!</span>",
+                "_graphic": {
+                    "src": "course/en/images/narrative-6.png",
+                    "alt": "First graphic",
+                    "attribution":""
+                },
+                
+                "strapline": "Tab 1"
+            },
+            {
+                "title": "",
+                "body": "<span class='textToAnimate'>By giving everyone the power to get involved and take part in the strategy, Valoptec accelerates the Group’s success, and all members benefit from the profits that are earned.</span><br><br><span class='textToAnimate'><strong>By joining Valoptec</strong>, your perspective widens: the Group’s ambition becomes yours and you share in the responsibility and  prosperity!</span>",
+                "_graphic": {
+                    "src": "course/en/images/narrative-1.png",
+                    "alt": "Second graphic",
+                    "attribution":""
+                },
+                
+                "strapline": "Tab 2"
+            },
+            {
+                "title": "",
+                "body": "<span class='textToAnimate'>When we opened employee shareholding in India, employees jumped on the tables for a standing ovation that lasted at least 5 minutes: employees declared that they now felt at home! They had acquired the dignity of ownership and knew that they could now influence the group strategy.</span>",
+                "_graphic": {
+                    "src": "course/en/images/narrative-3.png",
+                    "alt": "Third graphic",
+                    "attribution":""
+                },
+               "displaySequence":"top",
+                "strapline": "Tab 3"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+	    "_id": "c-45",
+        "_parentId": "b-45",
+	    "_type":"component",
+	    "_component":"text",
+	    "_classes":"",
+	    "_layout":"left",
+	    "title":"",
+	    "displayTitle":"BECAUSE WE ARE STRONGER TOGETHER",
+	    "body":"<div class='subTitle'>JOIN A GLOBAL COMMUNITY</div><br><div class='abc'>Valoptec is present all over the world. You too can be part of this <strong>global community.</strong></div><div class='footer-title'>OVER 50 COUNTRIES</div>",
+	    "instruction":""
+	},
+	{
+        "_id":"c-50",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"animatedImages",
+        "_classes":"animation-effects",
+        "_layout": "right",
+        "title": "BECAUSE WE ARE STRONGER TOGETHER",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic" :{
+            "src":"course/en/images/together.png"
+        },
+        "_items": [
+            {
+                "_graphic" :{
+                    "src":"course/en/images/glob.png"
+                },
+                "_classes":"strong1",
+                "duration": 1000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/anim-5.png"
+                },
+                "_classes":"strong2",
+                "duration": 2000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/anim-1.png"
+                },
+                "_classes":"strong3",
+                "duration": 3000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/anim-3.png"
+                },
+                "_classes":"strong4",
+                "duration": 4000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/anim-4.png"
+                },
+                "_classes":"strong5",
+                "duration": 5000
+            },
+            {
+                "_graphic" :{
+                    "src":"course/en/images/anim-2.png"
+                },
+                "_classes":"strong6",
+                "duration": 6000
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+	    "_id":"c-55",
+	    "_parentId":"b-50",
+	    "_type":"component",
+	    "_component":"text",
+	    "_classes":"",
+	    "_layout":"left",
+	    "title":"",
+	    "displayTitle":"BECAUSE OUR MISSION HAS MEANING",
+	    "body":"Valoptec has always stood up for the Group’s dream: <strong>to improve lives by improving sight,</strong> for everyone, everywhere in the world.<br><br>By joining Valoptec, <strong>you are ready to go the extra mile to achieve this dream.</strong>",
+	    "instruction":""
+	},
+    {
+        "_id":"c-60",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"BECAUSE OUR MISSION HAS MEANING",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "alt text",
+            "large": "course/en/images/mission-mean.png",
+            "small": "course/en/images/mission-mean.png",
+            "attribution":""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+	    "_id": "c-65",
+	    "_parentId": "b-55",
+	    "_type": "component",
+	    "_component": "media",
+	    "_classes": "",
+	    "_layout": "full",
+	    "title": "TESTIMONIALS",
+	    "displayTitle": "",
+	    "body": "",
+	    "instruction": "Select Play to begin the video.",
+	    "_setCompletionOn": "ended",
+	    "_useClosedCaptions": true,
+	    "_startLanguage": "en",
+	    "_allowFullScreen": true,
+	    "_showVolumeControl": true,
+	    "_startVolume": "80%",
+	    "_playsinline": false,
+	    "_media": {
+	        "mp4": "course/en/video/testimonials.mp4",
+	        "ogv": "course/en/video/c-40.ogv",
+	        "poster": "course/en/video/testimonials.png",
+	        "cc": [
+	            {
+	                "srclang": "en",
+	                "src": ""
+	            },
+	            {
+	                "srclang": "pl",
+	                "src": ""
+	            }
+	        ]
+	    },
+	    "_transcript": {
+	        "_setCompletionOnView": false,
+	        "_inlineTranscript": false,
+	        "_externalTranscript": false,
+	        "inlineTranscriptButton": "Transcript",
+	        "inlineTranscriptCloseButton": "Close Transcript",
+	        "inlineTranscriptBody": "Transcript body text should go here",
+	        "transcriptLinkButton": "Transcript",
+	        "transcriptLink": "assets/transcript.pdf"
+	    },
+	    "_playerOptions": {
+	        "poster": "",
+	        "showPosterWhenEnded": false,
+	        "defaultVideoWidth": 480,
+	        "defaultVideoHeight": 270,
+	        "videoWidth": -1,
+	        "videoHeight": -1,
+	        "defaultAudioWidth": 400,
+	        "defaultAudioHeight": 30,
+	        "defaultSeekBackwardInterval": "(media.duration * 0.05)",
+	        "defaultSeekForwardInterval": "(media.duration * 0.05)",
+	        "audioWidth": -1,
+	        "audioHeight": -1,
+	        "startVolume": 0.8,
+	        "loop": false,
+	        "autoRewind": true,
+	        "enableAutosize": true,
+	        "alwaysShowHours": false,
+	        "showTimecodeFrameCount": false,
+	        "framesPerSecond": 25,
+	        "autosizeProgress" : true,
+	        "alwaysShowControls": false,
+	        "hideVideoControlsOnLoad": false,
+	        "clickToPlayPause": true,
+	        "iPadUseNativeControls": false,
+	        "iPhoneUseNativeControls": false,
+	        "AndroidUseNativeControls": false,
+	        "features": ["playpause","current","progress","duration","tracks","volume","fullscreen"],
+	        "isVideo": true,
+	        "enableKeyboard": true,
+	        "pauseOtherPlayers": true,
+	        "startLanguage": "",
+	        "tracksText": "mejs.i18n.t('Captions/Subtitles')",
+	        "hideCaptionsButtonWhenEmpty": true,
+	        "toggleCaptionsButtonWhenOnlyOne": false,
+	        "slidesSelector": ""
+	    },
+	    "_pageLevelProgress": {
+	        "_isEnabled": true
+	    }
+	},
+	{
+	    "_id":"c-70",
+	    "_parentId":"b-60",
+	    "_type":"component",
+	    "_component":"text",
+	    "_classes":"",
+	    "_layout":"left",
+	    "title":"",
+	    "displayTitle":"",
+	    "body":"To become a Valoptec member, you first of all need to be a shareholder of the Group.",
+	    "instruction":""
+	},
+	{
+	    "_id":"c-75",
+	    "_parentId":"b-60",
+	    "_type":"component",
+	    "_component":"text",
+	    "_classes":"",
+	    "_layout":"right",
+	    "title":"LET’S WRITE",
+	    "displayTitle":"",
+	    "body":"<strong>Once you are a shareholder,</strong><br><strong>becoming a member of Valoptec is easy!</strong><br>Fill in the Membership Application form and return it.",
+	    "instruction":"",
+	    "_pageLevelProgress": {
+	        "_isEnabled": true
+	    }
+	},
+	{
+	    "_id":"c-80",
+	    "_parentId":"b-65",
+	    "_type":"component",
+	    "_component":"text",
+	    "_classes":"",
+	    "_layout":"full",
+	    "title":"VALOPTEC ASSOCIATION",
+	    "displayTitle":"",
+	    "body":"Promotes our culture and acts as the guardian of our funding values: <strong><i>trust, respect, well-being and sustainable growth</i></strong><br><br>Pools our voting rights <strong><i>to amplify our voices</i></strong><br><br>Allows each of us to challenge and vote on <strong><i>the HR policy and strategy</i></strong><br><br>Provides a <strong><i>space for informal dialogue</i></strong> with the top management<br><br>Protects our individual and collective <strong><i>financial interest</i></strong><br><br>Offers a chance to join an <strong><i>engaged and friendly community</i></strong>",
+	    "instruction":"",
+	    "_pageLevelProgress": {
+	        "_isEnabled": true
+	    }
+	}
+
+
+
+
+]
